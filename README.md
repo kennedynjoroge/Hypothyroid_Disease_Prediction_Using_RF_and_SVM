@@ -1,4 +1,4 @@
-#### Hypothyroid Disease Prediction Using Decision Tree based models and Support Vector Machine classifiers
+# Hypothyroid Disease Prediction Using Decision Tree based models and Support Vector Machine classifiers
 Date: 3rd Feb 2020
 #### By **Kennedy Njoroge**
 
